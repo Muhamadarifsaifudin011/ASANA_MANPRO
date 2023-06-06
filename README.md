@@ -1,24 +1,21 @@
-# Asana - ManajemenProyek
-> Ilham Ainur Idhana (19081010199)
+# Asana_Manajemen Proyek
+> Muhamad Arif Saifudin (19081010111)
 
 ## Tentang Asana
-   Asana merupakan sebuah perangkat lunak kolaboratif yang dirancang untuk membantu tim dalam mengatur dan mengelola proyek, tugas, dan pekerjaan sehari-hari. Asana memungkinkan anggota tim untuk membuat daftar tugas, mengatur jadwal, mengoordinasikan tanggung jawab, dan berkomunikasi secara efisien.
+   Asana adalah sebuah aplikasi berbasis web yang digunakan untuk manajemen proyek dan kolaborasi tim. Asana dirancang untuk membantu tim dalam mengorganisir, melacak, dan mengelola pekerjaan mereka. Aplikasi ini memberikan berbagai fitur dan alat yang memungkinkan tim untuk membuat tugas, menetapkan batas waktu, menugaskan tanggung jawab, melacak kemajuan, dan berkomunikasi dalam platform tersebut.
 
-   Dalam platform Asana, pengguna dapat membuat proyek dan tugas yang terkait, menetapkan tenggat waktu, mengatur prioritas, dan menetapkan tanggung jawab kepada anggota tim. Tim dapat melihat tugas-tugas yang harus dilakukan, mengirimkan pembaruan, melampirkan file, dan berkolaborasi dalam satu tempat. Asana juga menyediakan fitur-fitur seperti pengingat, pemantauan progres, dan pelaporan untuk membantu tim dalam memantau kemajuan proyek.
+Beberapa fitur kunci dari Asana adalah sebagai berikut:
 
-   Asana dapat digunakan oleh berbagai jenis tim, mulai dari tim kecil hingga tim yang lebih besar, dan cocok untuk berbagai jenis proyek, seperti pengembangan perangkat lunak, pemasaran, manajemen acara, penelitian, dan lain-lain. Platform ini dapat diakses melalui web atau melalui aplikasi seluler, sehingga memudahkan pengguna untuk mengakses dan berkolaborasi di mana saja dan kapan saja.
+1. Manajemen Tugas: Asana memungkinkan pengguna untuk membuat dan mengorganisir tugas dalam bentuk daftar atau papan, menetapkan deadline, menambahkan deskripsi, melampirkan file, dan memberikan komentar pada tugas
+2. Perencanaan Proyek: Anda dapat membuat proyek dalam Asana dan memecahkannya menjadi tugas-tugas yang lebih kecil atau sub-tugas. Asana memberikan representasi visual tentang kemajuan proyek dan ketergantungan antar tugas.
+3. Kolaborasi dan Komunikasi: Anggota tim dapat berkolaborasi dalam tugas dan proyek dengan cara memberikan komentar, menyebutkan anggota tim lainnya, dan melampirkan file. Asana juga dapat terintegrasi dengan alat komunikasi seperti Slack dan Microsoft Teams.
+4. Tampilan Timeline: Asana menyediakan tampilan timeline yang membantu dalam memvisualisasikan jadwal proyek dan ketergantungan antar tugas. Anda dapat menetapkan tanggal mulai dan tanggal selesai untuk setiap tugas dan melihatnya dalam antarmuka berbentuk grafik Gantt.
+5. Integrasi dengan Kalender: Asana dapat terintegrasi dengan aplikasi kalender populer, seperti Google Calendar dan Outlook, sehingga Anda dapat menyinkronkan batas waktu proyek dan tugas ke dalam kalender Anda.
+6. Dashboard yang Dapat Dikustomisasi: Anda dapat membuat dashboard kustom untuk melacak dan memonitor kemajuan proyek, melihat status tugas, dan menghasilkan laporan.
+7. Otomatisasi: Asana menyediakan fitur otomatisasi yang memungkinkan Anda untuk mengotomatiskan tugas-tugas yang berulang dan membuat aturan berdasarkan pemicu dan aksi tertentu.
+8. Ekosistem Integrasi: Asana terintegrasi dengan berbagai aplikasi dan layanan pihak ketiga, seperti Google Drive, Dropbox, GitHub, dan lainnya, untuk meningkatkan kolaborasi dan mengoptimalkan alur kerja.
 
-## Fitur-Fitur Asana
-   Asana memiliki sejumlah fitur yang dirancang untuk membantu tim dalam mengelola proyek dan tugas dengan lebih efisien. Berikut ini adalah beberapa fitur utama yang disediakan oleh Asana:
-   
-### 1. Timeline
-Fitur *timeline* dapat digunakan untuk memetakan rancangan proyek yang sedang dikerjakan. Rancangan proyek yang dikerjakan bisa dibagikan kepada rekan sesama kerja yang membutuhkan.
-
-### 2. Portofolio
-Fitur portofolio digunakan untuk mengorganisir dan melacak semua proyek yang pernah dikerjakan dalam satu halaman saja. Fitur ini juga memberikan gambaran tentang progres dan status proyek secara *realtime*.
-
-### 3. Workload
-Fitur *workload* ini dapat menggambarkan kapasitas kerja setiap orang dan memebrikan target terhadap masing-masing tugas. Hal ini dapat memudahkan dalam memperkirakan apakah rekan tim memiliki beban kerja terlalu sedikit atau terlalu berlebihan.
+Asana tersedia sebagai aplikasi web dan juga menyediakan aplikasi mobile untuk perangkat iOS dan Android. Asana menawarkan pilihan rencana gratis dan berbayar, dengan fitur dan kemampuan tambahan tersedia dalam versi berbayar.
 
 ## Cara Penggunaan *Tool* Asana
 ### 1. Daftar Asana
@@ -54,14 +51,3 @@ Proses tahap pendaftaran sudah selesai, anda akan langsung masuk ke halaman dash
 *   Apabila proyek yang dikerjakan sudah selesai, anda dapat memberikan centang sebagai pertanda bahwa tugas tersebut telah diselesaikan.
 
 ![alt text](https://github.com/ilhmainr/Asana-ProjectManagement/blob/main/image%20asana/Screenshot%202023-05-31%20215052.png)
-
-## Pilihan Paket Asana
-### 1. Paket *basic*
-Paket *basic* Asana adalah paket gratis untuk tim dengan batas maksimal 15 pengguna. Tidak ada batasan jumlah tugas yang dapat dibuat atau banyak lampiran file tugasnya. Namun, Batasan utamanya untuk pengguna gratisan ini ialah tidak adanya akses fitur *timeline* atau *dashboard* tambahannya.
-
-### 2. Paket *premium*
-Paket *premium* merupakan paket berbayar menengah per bulan. Fitur yang ditawarkan di paket ini adalah *timeline*, *dashboard* khusus, *forms*, hingga panel kontrol admin untuk manajer.
-
-### 3. Paket *business*
-Paket *business* merupakan paket tertinggi tarifnya dengan pembayaran per bulan. Pilihan paket ini diperuntukkan bagi kelompok yang perlu mengelola pekerjaan lintas inisiatif. Fitur yang ditawarkan dipaket ini diantaranya portofolio, *workload*, *proofing*, *lock* bagian tertentu, terintegrasi dengan Adobe Creative Cloud dan juga fitur otomatisasi penjadwalan tugas.
-
